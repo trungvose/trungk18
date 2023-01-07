@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Trung. I am a seasoned front-end engineer with 7 years of passion in creating experience-driven products. I am proficient in Angular, React and TypeScript development.
+My name's Trung. I am a seasoned front-end engineer with 9 years of passion in creating experience-driven products. I am proficient in Angular, React and TypeScript development.
 
  I'm helping the Angular community by creating open sources and writing about interesting and useful topics. I found that there weren't many resources on building a proper real-world scale application, and that's my focus for sharing. My most notable open-source projects are:
 
